@@ -16,11 +16,7 @@
 
 ---
 
-<p>
-  <a href="https://solrifter.github.io/SolRifter">
-    <img src="https://img.shields.io/badge/and%20a%20lot%20more-eba0ac?style=for-the-badge"/>
-  </a>
-</p>
+<img src="https://img.shields.io/badge/and%20a%20lot%20more-eba0ac?style=for-the-badge"/>
 
 ### 💖 [Learn More](https://solrifter.github.io/SolRifter)
 
