@@ -14,12 +14,14 @@
 ## 🌐 Workflow
 <img src="https://skillicons.dev/icons?i=py,lua,html,css,js,cs,c,cpp,godot,unity,unreal"/>
 
----
+<p>━━━━━━━━━━━━━━━━━━━━</p>
 
 <img src="https://img.shields.io/badge/and%20a%20lot%20more-eba0ac?style=for-the-badge"/>
 
 ### 💖 [Learn More](https://solrifter.github.io/SolRifter)
 
 ![Image](./frontend/assets/content/Mesmerizing_Dream.gif)
+
+<p>━━━━━━━━━━━━━━━━━━━━</p>
 
 </div>
